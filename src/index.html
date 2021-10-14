@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+      integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="./scss/styles.scss" />
+    <title>Home</title>
+  </head>
+  <body>
+    <header class="header">
+      <a href="./index.html" class="logo"
+        ><i class="fas fa-shopping-basket"></i> GROCO</a
+      >
+      <nav class="navbar">
+        <a href="./index.html">Home</a>
+        <a href="./shop.html">Shop</a>
+        <a href="./about.html">About</a>
+        <a href="./review.html">Review</a>
+        <a href="./blog.html">Blog</a>
+        <a href="./contact.html">Contact</a>
+      </nav>
+      <div class="icons">
+        <i id="menu-btn" class="fas fa-bars"></i>
+        <i id="search-btn" class="fas fa-search"></i>
+        <i id="cart-btn" class="fas fa-shopping-cart"></i>
+        <i id="login-btn" class="fas fa-user"></i>
+      </div>
+      <form class="search-form">
+        <input type="search" placeholder="Search here..." id="search-box">
+        <label for="search-box" class="fas fa-search"></label>
+      </form>
+      <div class="shopping-cart">
+        <div class="box">
+          <i class="fas fa-times"></i>
+          <img src="./images/cart-1.jpg" alt="Cart 1">
+          <div class="content">
+            <h3>Organic food</h3>
+            <span class="quantity">1</span>
+            <span class="multiply">1</span>
+            <span class="price">$18.99</span>
+          </div>
+        </div>
+        <div class="box">
+          <i class="fas fa-times"></i>
+          <img src="./images/cart-2.jpg" alt="Cart 1">
+          <div class="content">
+            <h3>Organic food</h3>
+            <span class="quantity">1</span>
+            <span class="multiply">1</span>
+            <span class="price">$18.99</span>
+          </div>
+        </div>
+        <div class="box">
+          <i class="fas fa-times"></i>
+          <img src="./images/cart-3.jpg" alt="Cart 1">
+          <div class="content">
+            <h3>Organic food</h3>
+            <span class="quantity">1</span>
+            <span class="multiply">1</span>
+            <span class="price">$18.99</span>
+          </div>
+        </div>
+        <h3 class="total">Total: <span>56.97</span></h3>
+        <a href="#" class="btn">Checkout cart</a>
+      </div>
+    </header>
+    <script src="./js/app.js"></script>
+  </body>
+</html>
