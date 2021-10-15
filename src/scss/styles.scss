@@ -32,6 +32,10 @@ html {
   scroll-behavior: smooth;
 }
 
+section {
+  padding: 3rem 9%;
+}
+
 .btn {
   margin-top: 1rem;
   display: inline-block;
@@ -276,6 +280,68 @@ html {
   display: none;
 }
 
+.space {
+  min-height: 50vh;
+}
+
+.footer {
+  background: $light-bg;
+
+  .box-container {
+    @include grid(25rem);
+
+    .box {
+      h3 {
+        font-size: 2.2rem;
+        color: $black;
+        padding: 1rem 0;
+      }
+
+      p {
+        font-size: 1.5rem;
+        color: $light-color;
+        padding-bottom: .5rem;
+      }
+
+      a {
+        font-size: 1.4rem;
+        color: $light-color;
+        padding: 1rem 0;
+        display: block;
+
+        &:hover {
+          color: $green;
+
+          i {
+            padding-right: 2rem;
+          }
+        }
+
+        i {
+          padding-right: .5rem;
+          color: $green;
+        }
+      }
+
+      form input[type="email"] {
+        width: 100%;
+        padding: 1rem 1.2rem;
+        font-size: 1.6rem;
+        color: $black;
+        margin: 1rem 0;
+        text-transform: none;
+      }
+    }
+  }
+}
+
+.credit {
+  text-align: center;
+  background: $green;
+  color: $white;
+  font-size: 2rem;
+}
+
 @media (max-width: 450px) {
   html {
     font-size: 50%;
@@ -333,5 +399,9 @@ html {
 
   .header {
     padding: 2rem;
+  }
+
+  section {
+    padding: 3rem 2rem;
   }
 }

@@ -15,6 +15,9 @@ html {
   overflow-x: hidden;
   scroll-behavior: smooth;
 }
+section {
+  padding: 3rem 9%;
+}
 .btn {
   margin-top: 1rem;
   display: inline-block;
@@ -218,6 +221,57 @@ html {
 #menu-btn {
   display: none;
 }
+.space {
+  min-height: 50vh;
+}
+.footer {
+  background: #f3f3f3;
+}
+.footer .box-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+  gap: 1.5rem;
+}
+.footer .box-container .box h3 {
+  font-size: 2.2rem;
+  color: #222222;
+  padding: 1rem 0;
+}
+.footer .box-container .box p {
+  font-size: 1.5rem;
+  color: #666666;
+  padding-bottom: 0.5rem;
+}
+.footer .box-container .box a {
+  font-size: 1.4rem;
+  color: #666666;
+  padding: 1rem 0;
+  display: block;
+}
+.footer .box-container .box a:hover {
+  color: #bac34e;
+}
+.footer .box-container .box a:hover i {
+  padding-right: 2rem;
+}
+.footer .box-container .box a i {
+  padding-right: 0.5rem;
+  color: #bac34e;
+}
+.footer .box-container .box form input[type=email] {
+  width: 100%;
+  padding: 1rem 1.2rem;
+  font-size: 1.6rem;
+  color: #222222;
+  margin: 1rem 0;
+  text-transform: none;
+}
+.credit {
+  text-align: center;
+  background: #bac34e;
+  color: #ffffff;
+  font-size: 2rem;
+}
 @media (max-width: 450px) {
   html {
     font-size: 50%;
@@ -267,6 +321,10 @@ html {
 
   .header {
     padding: 2rem;
+  }
+
+  section {
+    padding: 3rem 2rem;
   }
 }
 /*# sourceMappingURL=index.75039cae.css.map */
