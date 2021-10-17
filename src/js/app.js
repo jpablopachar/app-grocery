@@ -2,6 +2,8 @@ const searchForm = document.querySelector('.search-form');
 const cart = document.querySelector('.shopping-cart');
 const loginForm = document.querySelector('.login-form');
 const navbar = document.querySelector('.navbar');
+const slides = document.querySelectorAll('.home .slides-container .slide');
+let index = 0;
 
 document.querySelector('#search-btn').onclick = () => {
   searchForm.classList.toggle('active');
@@ -37,3 +39,21 @@ window.onscroll = () => {
   loginForm.classList.remove('active');
   navbar.classList.remove('active');
 };
+
+// eslint-disable-next-line no-unused-vars
+function nextSlide () {
+  slides[index].classList.remove('active');
+
+  index = (index + 1) % slides.length;
+
+  slides[index].classList.add('active');
+}
+
+// eslint-disable-next-line no-unused-vars
+function prevSlide () {
+  slides[index].classList.remove('active');
+
+  index = (index - 1 + slides.length) % slides.length;
+
+  slides[index].classList.add('active');
+}
