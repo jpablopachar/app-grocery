@@ -1,4 +1,4 @@
-18242
+18251
 106C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\@nodelib\fs.stat\out\settings.js121436361000000000 0
 81C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\yallist132786968756649496 1
 125C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\jsdom\lib\jsdom\living\aborting\AbortSignal-impl.js121436361000000000 0
@@ -23,7 +23,7 @@
 129C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\jsdom\lib\jsdom\living\nodes\HTMLUnknownElement-impl.js121436361000000000 0
 97C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\type-fest\ts41\get.d.ts121436361000000000 0
 110C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\@parcel\babel-ast-utils\lib\index.js121436361000000000 0
-65C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist132791366970368492 1
+65C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist132796799745153232 1
 86C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\tough-cookie132786968759469509 1
 137C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\id.js121436361000000000 0
 108C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\postcss-normalize-timing-functions132786968763579477 1
@@ -184,7 +184,7 @@
 109C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\caniuse-lite\data\features\fetch.js121436361000000000 0
 126C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\table\node_modules\ajv\dist\vocabularies\next.js.map121436361000000000 0
 86C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\caniuse-lite132786968774029511 1
-76C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\src\review.html132787853618224683 0
+76C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\src\review.html132796799743583086 0
 114C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\eslint-plugin-import\docs\rules\named.md121436361000000000 0
 116C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\es-abstract\2017\OrdinarySetPrototypeOf.js121436361000000000 0
 108C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\resolve\test\resolver\invalid_main132786983905121412 1
@@ -242,7 +242,7 @@
 91C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\hash.js\README.md121436361000000000 0
 90C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\lodash\fp\set.js121436361000000000 0
 136C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\table\node_modules\ajv\lib\vocabularies\applicator\thenElse.ts121436361000000000 0
-81C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\src\scss\styles.scss132791356637519263 0
+81C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\src\scss\styles.scss132796799052427452 0
 114C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\dashdash\etc\dashdash.bash_completion.in131243276120000000 0
 132C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules132786968663278762 1
 129C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\table\node_modules\ajv\lib\refs\json-schema-secure.json121436361000000000 0
@@ -1926,6 +1926,7 @@
 112C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\es-abstract\2018\SameValueNonNumber.js121436361000000000 0
 100C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\postcss-calc\dist\index.js121436361000000000 0
 107C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\es-abstract\2021\SameValueZero.js121436361000000000 0
+84C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\pic-2.fbe07db8.png132796793072352166 0
 89C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\is-absolute-url132786968769719519 1
 138C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\table\node_modules\ajv\dist\vocabularies\validation\index.js.map121436361000000000 0
 86C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\is-arguments132786968769709496 1
@@ -3038,6 +3039,7 @@
 107C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\json-schema\draft-01\hyper-schema129340000440000000 0
 120C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\caniuse-lite\data\features\cookie-store-api.js121436361000000000 0
 92C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\utility-types\dist132786968667608771 1
+85C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\icon-1.169a9569.png132796784965035037 0
 117C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\postcss-ordered-values\dist\rules\border.js121436361000000000 0
 94C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\yaml\types\binary.js121436361000000000 0
 102C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\@parcel\resolver-default\lib132786968657803986 1
@@ -7496,6 +7498,7 @@
 136C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\lmdb-store\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE121436361000000000 0
 130C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\postcss-modules-values\node_modules\postcss\CHANGELOG.md121436361000000000 0
 101C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\mkdirp\lib\mkdirp-native.js121436361000000000 0
+85C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\icon-3.43507a6f.png132796784965035037 0
 107C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\caniuse-lite\data\features\url.js121436361000000000 0
 125C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\postcss-modules-values\node_modules\postcss\LICENSE121436361000000000 0
 118C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\@babel\types\lib\definitions\placeholders.js121012626000000000 0
@@ -10574,6 +10577,7 @@
 125C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\jsdom\lib\jsdom\living\nodes\HTMLCollection-impl.js121436361000000000 0
 130C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\jsdom\lib\jsdom\living\nodes\HTMLDataListElement-impl.js121436361000000000 0
 130C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\jsdom\lib\jsdom\living\nodes\HTMLFieldSetElement-impl.js121436361000000000 0
+85C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\icon-2.b48a4a10.png132796784965035037 0
 109C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\core-js\modules\es.string.search.js121436361000000000 0
 87C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\isexe\mode.js131347037930000000 0
 126C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\jsdom\lib\jsdom\living\nodes\HTMLFormElement-impl.js121436361000000000 0
@@ -12164,6 +12168,7 @@
 98C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\fast-glob\out\index.d.ts121436361000000000 0
 96C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\fast-glob\out\index.js121436361000000000 0
 96C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\fast-glob\out\managers132786968679038764 1
+84C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\pic-3.1b1973b1.png132796793072612378 0
 97C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\fast-glob\out\providers132786968678938762 1
 121C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\caniuse-lite\data\features\input-placeholder.js121436361000000000 0
 98C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\assert-plus\package.json132786968752869482 0
@@ -17191,6 +17196,7 @@
 98C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\@parcel\packager-svg\src132786968659786997 1
 113C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\@parcel\packager-svg\src\SVGPackager.js121436361000000000 0
 113C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\@parcel\packager-svg\lib\SVGPackager.js121436361000000000 0
+84C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\pic-1.25db6755.png132796793072423578 0
 98C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\@parcel\packager-raw\lib132786968659596999 1
 102C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\@parcel\packager-raw\LICENSE121436361000000000 0
 107C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\node_modules\@parcel\packager-raw\package.json132786968754809490 0
@@ -18231,13 +18237,16 @@
 89C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\heading-bg.fd7a4c45.jpg132790436224396124 0
 86C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\home-bg.07e03726.jpg132790418463905847 0
 83C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\index.643c084b.js132787182331736317 0
-84C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\index.75039cae.css132791356640635660 0
-88C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\index.75039cae.css.map132791356640665377 0
+84C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\index.75039cae.css132796799055719248 0
+88C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\index.75039cae.css.map132796799055749278 0
 76C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\index.html132790418463905847 0
 86C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\payment.da143a62.png132790418463905847 0
+84C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\pic-4.60121620.png132796793072423578 0
+84C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\pic-5.1d942b09.png132796793072352166 0
+84C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\pic-6.68afa634.png132796793072622133 0
 88C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\product-1.683c990b.jpg132790614543330388 0
 88C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\product-4.b0e15092.jpg132790618414014542 0
 88C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\product-7.0cd2ed52.jpg132790618414024396 0
 88C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\review.3543ce35.js.map132787048445080264 0
-77C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\review.html132790418463905847 0
+77C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\review.html132796799745143081 0
 82C:\Users\Lenovo\Documents\Aplicaciones\webDesign\app-grocery\dist\shop.64a01f20.js132787048445000270 0
